@@ -1,0 +1,13 @@
+<hl>: header tag, makes the text large and puts it on a seperate line. Good for making titles or headings
+
+<p>: paragraph
+
+<ol>: ordered line- lists in order like 1, 2, 3,,,,
+
+<ul>: unordered line- lists in bullet points, not in order
+
+<li>: makes a list of things
+
+<a>: makes a link for a website
+
+<img>: puts a picture on your website
