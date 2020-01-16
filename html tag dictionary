@@ -33,7 +33,7 @@
       
       attributes: none
 	 
-	    <h3>heading</h3>	  
+      <h3>heading</h3>	  
 
 <img>:puts a picture on your website
 
@@ -58,6 +58,12 @@
       attributes: none
      
       <p>paragraph</p>
+      
+<title>: gives your website a title/heading
+
+      attributes: none
+      
+      <title>website<title>
 
       
 <ul>: unordered list- lists in bullet points, not in order
