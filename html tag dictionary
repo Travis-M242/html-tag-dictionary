@@ -10,7 +10,16 @@
       
       <body>content</body>
       
-<div>: creates a box-reuires styling
+<br>: creates space between chosen content
+
+      attributes: none
+      
+      paragraph
+      <br>
+      paragraph
+
+      
+<div>: creates a box-reqires styling
 
       attributes:none
       
