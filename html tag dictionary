@@ -9,6 +9,12 @@
       attributes: none
       
       <body>content</body>
+      
+<div>: creates a box-reuires styling
+
+      attributes:none
+      
+      <div>content<div>
    
 <!DOCTYPE>: selects the current version of html
 
@@ -58,6 +64,13 @@
       attributes: none
      
       <p>paragraph</p>
+     
+<style>: css-stlyes your website--->changes fonts, background color....etc
+
+      attributes: none
+      
+      <style>font-size:25pt
+                </stlye>
       
 <title>: gives your website a title/heading
 
